@@ -3,9 +3,10 @@
 This project is base on project uCrop. The url is https://github.com/Yalantis/uCrop
 
 # Changelog
+### Version：2.2.3
 Added some code for PictureSelector (https://github.com/LuckSiege/PictureSelector) base on uCrop version 2.2.3
+It will be referenced in Project PictureSelector.
 
-# Changelog
 ### Version: 2.2.3
 
   * Several fixes including [#445](https://github.com/Yalantis/uCrop/issues/445), [#465](https://github.com/Yalantis/uCrop/issues/465) and more!    
