@@ -1,4 +1,4 @@
-# uCrop - Image Cropping Library for Android
+# JCrop - Image Cropping Library for Android
 
 This project is base on project uCrop. The url is https://github.com/Yalantis/uCrop
 
