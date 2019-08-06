@@ -33,7 +33,7 @@ allprojects {
         maven { url 'https://maven.aliyun.com/repository/google' }
     }
 
-    //for chinese
+    //有中文注释时，需要加上这些
     tasks.withType(Javadoc) {
         options{ encoding "UTF-8"
             charSet 'UTF-8'
