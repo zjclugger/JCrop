@@ -41,6 +41,8 @@ log*.txt
 *.iml
 out/
 
+*.bak
+
 build/
 captures/
 .gradle/
