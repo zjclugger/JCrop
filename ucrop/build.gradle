@@ -50,9 +50,9 @@ repositories {
 publish {
     repoName = 'maven'  //repo name default is maven
     userOrg = 'zjclugger'  //bintray username
-    groupId = 'zjclugger.JCrop'  //compile part 1
+    groupId = 'com.github.zjclugger.JCrop'  //compile part 1
     artifactId = 'ucrop'  //module name compile part 2
-    publishVersion = 'v1.0'  //version code,compile part 3
+    publishVersion = '1.0.1'  //version code,compile part 3
     desc = 'JCrop is base on uCrop'
     website = 'https://github.com/zjclugger/JCrop' //github
 }
