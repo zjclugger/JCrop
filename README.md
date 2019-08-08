@@ -1,6 +1,7 @@
 # JCrop - Image Cropping Library for Android
 
 This project is base on project uCrop. The url is https://github.com/Yalantis/uCrop
+Set [implementation "com.zjclugger.jcrop:ucrop:1.0.2"] to use JCrop.
 
 # Changelog
 ### Version：2.2.3
